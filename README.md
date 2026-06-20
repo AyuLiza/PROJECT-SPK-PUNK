@@ -4,6 +4,8 @@
 
 ---
 
+📄 PPT : [Lihat Dokumentasi (PDF)](SPKSMARTPUNK_PPT.pdf)
+
 ## Tentang Proyek
 
 Aplikasi web berbasis PHP untuk membantu manajemen **CV Ruarasa Lombok** menentukan 3 package event unggulan yang paling layak diprioritaskan dalam kegiatan penjualan dan promosi, menggunakan metode **SMART (Simple Multi-Attribute Rating Technique)**.
