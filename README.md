@@ -84,7 +84,7 @@ CV Ruarasa adalah perusahaan hiburan edukatif berbasis teknologi immersive yang 
 4. Akses aplikasi di browser:
 
    ```
-   http://localhost/SPK-Metode-SMART/
+   http://localhost/PROJECT-SPK-PUNK/
    ```
 
 ---
